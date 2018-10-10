@@ -24,3 +24,5 @@
 
 # Ignore Spring Files
 /spring/*.pid
+
+/example_user.rb
