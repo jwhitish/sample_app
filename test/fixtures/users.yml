@@ -4,6 +4,7 @@ marty:
   name: Marty McTest
   email: marty@mctest.com
   password_digest: <%= User.digest('password') %>
+  admin: true
 
 testy:
   name: Testy McTest
